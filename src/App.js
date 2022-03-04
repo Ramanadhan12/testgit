@@ -5,6 +5,7 @@ function App() {
   return (
 <div>hello world nice to meet you
 <h1>hey</h1>
+<h2>you are smart</h2>
 </div>
   );
 }
